@@ -1,5 +1,8 @@
 module.exports = {
-    title: 'hi,lebang',
+    title: 'hi，lebang',
     description: 'Just playing around',
-    base: '/'
+    base: '/',
+    head: [
+        ['link', { rel: 'icon', href: './favicon.ico' }]
+    ]
   }
