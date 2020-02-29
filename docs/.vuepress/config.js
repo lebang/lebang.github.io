@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'hi，lebang',
+    title: 'huanlebang',
     description: 'Just playing around',
     base: '/',
     head: [
